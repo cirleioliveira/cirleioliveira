@@ -36,6 +36,6 @@ para aparecer os emojis windows ponto (.)
  
 </div>
 
- ![snake gif](https://github.com/cirleioliveira/cirleioliveira/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![snake gif](https://github.com/cirleioliveira/cirleioliveira/blob/output/github-contribution-grid-snake.svg) -->
  
 
