@@ -34,8 +34,9 @@ para aparecer os emojis windows ponto (.)
   <a href ="mailto:shirley_1979_5@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cirlei-de-oliveira-7a6bb9186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+<!-- 
 </div>
 
  ![snake gif](https://github.com/cirleioliveira/cirleioliveira/blob/output/github-contribution-grid-snake.svg)
- 
+ -->
 
