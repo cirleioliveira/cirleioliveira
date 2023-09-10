@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 para aparecer os emojis windows ponto (.)
+ ![snake gif](https://github.com/cirleioliveira/cirleioliveira/blob/output/github-contribution-grid-snake.svg)
+ 
+
 -->
 
 
@@ -36,6 +39,5 @@ para aparecer os emojis windows ponto (.)
  
 </div>
 
- ![snake gif](https://github.com/cirleioliveira/cirleioliveira/blob/output/github-contribution-grid-snake.svg)
- 
+
 
