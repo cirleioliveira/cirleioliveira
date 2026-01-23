@@ -27,7 +27,7 @@ para aparecer os emojis windows ponto (.)
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirleioliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+   -->
    ## 👇 Redes sociais onde você pode me encontrar! 
  
 <div> 
