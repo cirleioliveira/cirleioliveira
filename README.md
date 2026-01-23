@@ -23,7 +23,7 @@ para aparecer os emojis windows ponto (.)
  <div>
   <a href="https://github.com/cirleioliveira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cirleioliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  -->
+
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirleioliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
